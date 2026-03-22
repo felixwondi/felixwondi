@@ -28,4 +28,4 @@ Linux · TCP/IP · Wireshark · Volatility · Python · Bash
 LinkedIn: https://www.linkedin.com/in/felix-wondratschek-a99970384/
 GitHub: https://github.com/felixwondi
 Xing: https://www.xing.com/profile/Felix_Wondratschek/web_profiles?nwt_nav=profile
-https://tryhackme.com/p/FelixWondratschek
+TryHackMe: https://tryhackme.com/p/FelixWondratschek
