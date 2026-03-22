@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, ich bin Felix 👋
 
-<!--
-**felixwondi/felixwondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Fokus: IT-Security (SOC / DFIR)
 
-Here are some ideas to get you started:
+🔍 Interessen:
+- Memory Forensics
+- Network Analysis
+- DFIR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projekt:
+- [Network Offload Memory Forensics](https://github.com/felixwondi/network-offload-memory-forensics)
+
+🛠 Skills:
+Linux · TCP/IP · Wireshark · Volatility · Python · Bash
+
+🚀 Aktuell:
+- TryHackMe (SOC / DFIR Path)
+- Aufbau praktischer DFIR Skills
+
+📍 Nürnberg | offen für Junior SOC / DFIR Rollen
