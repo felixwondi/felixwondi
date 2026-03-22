@@ -25,7 +25,7 @@ Linux · TCP/IP · Wireshark · Volatility · Python · Bash
 # 📍 Nürnberg | offen für Junior SOC / DFIR Rollen
 
 ## 📫 Kontakt:  
-- LinkedIn: https://www.linkedin.com/in/felix-wondratschek-a99970384/
+- LinkedIn: https://www.linkedin.com/in/felix-wondratschek-a99970384/](https://www.linkedin.com/in/felix-wondratschek/
 - GitHub: https://github.com/felixwondi
 - Xing: https://www.xing.com/profile/Felix_Wondratschek/web_profiles?nwt_nav=profile
 - TryHackMe: https://tryhackme.com/p/FelixWondratschek
