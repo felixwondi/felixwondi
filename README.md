@@ -12,7 +12,7 @@ Building hands-on experience in Digital Forensics and Network Analysis.
 
 # 📂 Projekt:
 - Network Offload Memory Forensics  
-  → Analysis of memory acquisition and offloading techniques for DFIR
+  → Analysis of memory acquisition and offloading techniques for DFIR  
   → [Network Offload Memory Forensics](https://github.com/felixwondi/network-offload-memory-forensics)
 
 ## 🛠 Skills:
@@ -25,7 +25,7 @@ Linux · TCP/IP · Wireshark · Volatility · Python · Bash
 # 📍 Nürnberg | offen für Junior SOC / DFIR Rollen
 
 ## 📫 Kontakt:  
-LinkedIn: https://www.linkedin.com/in/felix-wondratschek-a99970384/
-GitHub: https://github.com/felixwondi
-Xing: https://www.xing.com/profile/Felix_Wondratschek/web_profiles?nwt_nav=profile
-TryHackMe: https://tryhackme.com/p/FelixWondratschek
+- LinkedIn: https://www.linkedin.com/in/felix-wondratschek-a99970384/
+- GitHub: https://github.com/felixwondi
+- Xing: https://www.xing.com/profile/Felix_Wondratschek/web_profiles?nwt_nav=profile
+- TryHackMe: https://tryhackme.com/p/FelixWondratschek
